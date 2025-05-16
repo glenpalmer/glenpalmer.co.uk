@@ -1,15 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 @import "tailwindcss";
 
 @theme {
   /* Screen Sizes */
-
-  --screen-sm: "350px";
+  --screen-sm: "340px";
   --screen-md: "768px";
   --screen-lg: "1024px";
   --screen-xl: "1280px";
   --screen-2xl: "1536px";
 
   /* Colours */
+  --color-lightGrey: #e7ecef;
+  --color-grey: #8b8c89;
+  --color-Blue0: #a3cef1;
+  --color-blue1: #6096ba;
+  --color-blue2: #145da0;
+  --color-blue3: #274c77;
+  --color-blue4: #1d3461;
+  --color-blue5: #0c2d48;
 
   --color-textBrown: #53423e;
   --color-brown: #53423e;
@@ -28,9 +37,8 @@
   --color-darkGrey: #3f4441;
 
   /* fonts */
-
-  --font-body: "Josefin Sans", "sans-serif";
-  --font-special: "Roboto", "sans-serif";
+  --font-special: "Open Sans", "sans-serif";
+  --font-body: "Roboto", "sans-serif";
 
   /* Box Shadows */
 
