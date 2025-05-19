@@ -4,8 +4,8 @@ import NavbarLinks from "./NavbarLinks";
 
 const NavbarMain = () => {
   return (
-    <nav className="max-w-[1280px] mx-auto w-full px-4 mt-2 fixed left-[50%] -translate-x-[50px] flex z-20">
-      <div className="border flex justify-between max-w-[1180px] mx-auto items-center">
+    <nav className="fixed max-w-[1280px] left-[50%] mx-auto w-full -translate-x-[50%] mt-4 flex">
+      <div className="max-w-[1180px] mx-auto w-full p-4 justify-between flex">
         <NavbarLogo />
         <div>
           <NavbarLinks />

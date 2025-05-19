@@ -1,3 +1,4 @@
+import HeroMain from "./assets/components/sectionHero/HeroMain";
 import NavbarMain from "./assets/components/sectionNavbar/NavbarMain";
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <>
       <div>
         <NavbarMain />
+        <HeroMain />
       </div>
     </>
   );

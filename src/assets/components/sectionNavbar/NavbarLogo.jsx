@@ -3,7 +3,7 @@ import React from "react";
 const NavbarLogo = () => {
   return (
     <div>
-      <h1 className="border">Glen Palmer</h1>
+      <h1 className="text-3xl uppercase">Glen Palmer</h1>
     </div>
   );
 };

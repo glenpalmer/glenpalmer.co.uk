@@ -9,7 +9,7 @@ const links = [
 
 const NavbarLinks = () => {
   return (
-    <ul className="border flex">
+    <ul className="flex gap-12 text-2xl text-center">
       {links.map((link, index) => {
         return (
           <li key={index} className="">
