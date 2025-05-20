@@ -1,13 +1,16 @@
 import React from "react";
 import { PiHexagonThin } from "react-icons/pi";
+import profileImage from "/public/images/profileImageHero.png";
 
 const HeroImage = () => {
   return (
     <div className="border border-yellow-500 h-full flex items-center justify-center">
-      <img src="../../public/images/profileImageHero.png" alt="Profile Image" />
-      <div className="border border-red-500 absolute -z-10 flex justify-center items-center animate-pulse">
-        <PiHexagonThin className="md:h-[90%] sm:h-[120%] min-h-[600px] w-auto text-cyan blur-md animate-[spin_20s_linear_infinite]" />
-      </div>
+      {/*<img src="../../public/images/profileImageHero.png" alt="Profile Image" />*/}
+      <img
+        src={profileImage}
+        alt="Profile Image"
+        className="w-60 h-60 rounded-full object-cover bg-radial-[at_50%_50%] from-white via-blue-200 to-blue1"
+      />
     </div>
   );
 };
