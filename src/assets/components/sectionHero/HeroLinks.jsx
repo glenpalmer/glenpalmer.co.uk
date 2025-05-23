@@ -4,12 +4,12 @@ import { ImGithub } from "react-icons/im";
 
 const HeroLinks = () => {
   return (
-    <div>
+    <div className="flex justify-center gap-6 mt-4">
       <div>
-        <FaLinkedin />
+        <FaLinkedin className="text-4xl text-blue3" />
       </div>
       <div>
-        <ImGithub />
+        <ImGithub className="text-4xl text-blue3" />
       </div>
     </div>
   );

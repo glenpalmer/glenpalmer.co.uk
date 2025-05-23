@@ -1,9 +1,15 @@
 import React from "react";
+import { SiOracle } from "react-icons/si";
 
 const NavbarLogo = () => {
   return (
-    <div>
-      <h1 className="text-3xl uppercase">Glen Palmer</h1>
+    <div className="flex items-center">
+      <div className="mr-4">
+        <SiOracle className="text-red-600 text-4xl" />
+      </div>
+      <div>
+        <h1 className="text-3xl uppercase">Glen Palmer</h1>
+      </div>
     </div>
   );
 };
