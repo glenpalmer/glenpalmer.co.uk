@@ -2,7 +2,7 @@ import AboutMeMain from "./assets/components/sectionAboutMe/AboutMeMain";
 import HeroMain from "./assets/components/sectionHero/HeroMain";
 import NavbarMain from "./assets/components/sectionNavbar/NavbarMain";
 import ExperienceMain from "./assets/components/sectionExperience/ExperienceMain";
-import ProjectsMain from "./assets/components/sectionProjects/ProjectsMain";
+import ProjectMain from "./assets/components/sectionProjects/ProjectMain";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
         <HeroMain />
         <AboutMeMain />
         <ExperienceMain />
-        <ProjectsMain />
+        <ProjectMain />
       </div>
     </>
   );
