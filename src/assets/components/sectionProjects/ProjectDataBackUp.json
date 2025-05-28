@@ -1,0 +1,275 @@
+{
+  "Projects": [
+    {
+      "id": 27,
+      "date": "January, 2024",
+      "client": "Home Office",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 26,
+      "date": "January, 2023",
+      "client": "Action for Children",
+      "primeSi": "Namos",
+      "role": "Senior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 25,
+      "date": "January, 2023",
+      "client": "Telent",
+      "primeSi": "Namos",
+      "role": "Senior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 24,
+      "date": "January, 2016",
+      "client": "Wood",
+      "primeSi": "Oracle Contractors",
+      "role": "Senior Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 23,
+      "date": "January, 2015",
+      "client": "University College London",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 22,
+      "date": "January, 2015",
+      "client": "Hariot Watt University",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 21,
+      "date": "January, 2014",
+      "client": "Petrofac",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 20,
+      "date": "August, 2012",
+      "client": "Northern Powergrid",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 19,
+      "date": "August, 2011",
+      "client": "Scottish Government",
+      "primeSi": "",
+      "role": "Senior Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 18,
+      "date": "September, 2010",
+      "client": "Belron International",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 17,
+      "date": "September, 2009",
+      "client": "Logica CMG",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 16,
+      "date": "January, 2009",
+      "client": "Catlin Group",
+      "primeSi": "Symatrix",
+      "role": "Senior Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 15,
+      "date": "June, 2008",
+      "client": "Northern Ireland Civil Service",
+      "primeSi": "Symatrix",
+      "role": "Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 14,
+      "date": "April, 2006",
+      "client": "City & Council of Swansea",
+      "primeSi": "Cap Gemini",
+      "role": "Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 13,
+      "date": "April, 2006",
+      "client": "Northern Ireland Civil Service",
+      "primeSi": "Symatrix",
+      "role": "Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 12,
+      "date": "January, 2006",
+      "client": "Wood Group",
+      "primeSi": "Symatrix",
+      "role": "Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 11,
+      "date": "November, 2005",
+      "client": "Ministry of Defence",
+      "primeSi": "",
+      "role": "Oracle HCM Client",
+      "type": "Contractor",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 10,
+      "date": "October, 2004",
+      "client": "Calyon Corporate Bank",
+      "primeSi": "Symatrix",
+      "role": "Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 9,
+      "date": "May, 2004",
+      "client": "Metronet",
+      "primeSi": "Symatrix",
+      "role": "Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 8,
+      "date": "May, 2003",
+      "client": "Laurel Pub Company",
+      "primeSi": "Arinso",
+      "role": "Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 7,
+      "date": "November, 2002",
+      "client": "University of Greenwich",
+      "primeSi": "Arinso",
+      "role": "Junior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 6,
+      "date": "September, 2002",
+      "client": "International Baccalaureate Organisation (IBO)",
+      "primeSi": "Arinso",
+      "role": "Junior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 5,
+      "date": "December, 2001",
+      "client": "University of Wales",
+      "primeSi": "Arinso",
+      "role": "Junior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+    {
+      "id": 4,
+      "date": "May, 2001",
+      "client": "Vizzavi",
+      "primeSi": "Arinso",
+      "role": "Junior Oracle Business Analyst",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 3,
+      "date": "Novement, 2000",
+      "client": "British Airways",
+      "primeSi": "Arinso",
+      "role": "Junior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    },
+
+    {
+      "id": 2,
+      "date": "September, 2000",
+      "client": "Churchill Insurance",
+      "primeSi": "Arinso",
+      "role": "Junior Oracle HCM Client",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "right"
+    },
+    {
+      "id": 1,
+      "date": "February, 1995",
+      "client": "Reed Personal Services",
+      "primeSi": "Reed",
+      "role": "Payroll Clerk / Business Analyst",
+      "type": "Permanent Employment",
+      "summary": "Project summary here.",
+      "position": "left"
+    }
+  ]
+}
