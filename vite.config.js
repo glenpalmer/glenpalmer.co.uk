@@ -4,5 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react(), tailwindcss(), (base: "/glenpalmer.co.uk")],
+  plugins: [react(), tailwindcss()],
+  base: "/glenpalmer.co.uk/",
 });
