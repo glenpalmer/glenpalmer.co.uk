@@ -12,7 +12,7 @@ const FooterText = () => {
         <div className="text-lightGrey text-sm text-center">
           Personal Profile built using technologies React, TailwindCSS and Vite
           <br />
-          Project available on GitHub
+          Project hosted on GitHub Page and available on GitHub
         </div>
         <div className="flex gap-4 text-4xl justify-center mt-2">
           <FaReact />
