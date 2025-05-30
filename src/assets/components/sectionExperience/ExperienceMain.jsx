@@ -4,7 +4,10 @@ import ExperienceText from "./ExperienceText";
 
 const ExperienceMain = () => {
   return (
-    <div className="max-w-[1180px] mx-auto pb-60 justify-center">
+    <div
+      id="experience"
+      className="max-w-[1180px] mx-auto pb-60 justify-center"
+    >
       <ExperienceHeader />
       <ExperienceText />
     </div>

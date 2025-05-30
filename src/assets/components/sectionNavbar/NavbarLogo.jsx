@@ -8,7 +8,9 @@ const NavbarLogo = () => {
         <SiOracle className="text-red-600 text-4xl" />
       </div>
       <div>
-        <h1 className="text-3xl uppercase">Glen Palmer</h1>
+        <a href="#">
+          <h1 className="text-3xl uppercase">Glen Palmer</h1>
+        </a>
       </div>
     </div>
   );

@@ -17,10 +17,12 @@ const HeroCallToAction = () => {
     <div>
       <div className="flex justify-around">
         <div className="flex items-center justify-center border border-blue2 bg-blue2 h-8 w-[120px] rounded-2xl text-xs text-white">
-          Download CV
+          <a href="../../../public/GlenPalmer_CV_20250314.pdf" download>
+            Download CV
+          </a>
         </div>
         <div className="flex items-center justify-center border border-blue2 h-8 w-[120px] rounded-2xl text-xs text-blue2">
-          Context Me
+          <a href="#contactMe">Contact Me</a>
         </div>
       </div>
       <div>

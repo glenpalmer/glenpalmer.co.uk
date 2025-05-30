@@ -1,10 +1,10 @@
 import React from "react";
 
 const links = [
-  { link: "About Me", section: "about me" },
-  { link: "Experience", section: "experience" },
-  { link: "Projects", section: "projects" },
-  { link: "Contact", section: "contact" },
+  { link: "About Me", section: "#aboutMe" },
+  { link: "Experience", section: "#experience" },
+  { link: "Projects", section: "#project" },
+  { link: "Contact Me", section: "#contactMe" },
 ];
 
 const NavbarLinks = () => {
@@ -13,7 +13,7 @@ const NavbarLinks = () => {
       {links.map((link, index) => {
         return (
           <li key={index} className="">
-            <a href="#">{link.link}</a>
+            <a href={link.section}>{link.link}</a>
             <div className=""></div>
           </li>
         );

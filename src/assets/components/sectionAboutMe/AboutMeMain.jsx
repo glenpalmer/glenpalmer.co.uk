@@ -4,7 +4,7 @@ import AboutMeText from "./AboutMeText";
 
 const AboutMeMain = () => {
   return (
-    <div className="max-w-[1180px] mx-auto pb-60 justify-center">
+    <div id="aboutMe" className="max-w-[1180px] mx-auto pb-60 justify-center">
       <AboutMeHeader />
       <AboutMeText />
     </div>
