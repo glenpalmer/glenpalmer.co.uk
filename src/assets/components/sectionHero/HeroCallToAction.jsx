@@ -15,7 +15,7 @@ const HeroCallToAction = () => {
       </div>
     </div>*/
     <div>
-      <div className="flex justify-around">
+      <div className="flex flex-col items-center gap-2 md:flex-row md:justify-center">
         <div className="flex items-center justify-center border border-blue2 bg-blue2 h-8 w-[120px] rounded-2xl text-xs text-white">
           <a href="../../../public/GlenPalmer_CV_20250314.pdf" download>
             Download CV
