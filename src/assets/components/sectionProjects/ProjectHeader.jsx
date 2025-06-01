@@ -3,16 +3,16 @@ import graphicProjectBoard from "../../../../public/images/graphicProjectBoard.p
 
 const ProjectsHeader = () => {
   return (
-    <div className="flex relative w-full justify-center">
+    <div className="flex flex-col w-full justify-start md:flex-row md:justify-center">
       <div>
         <img
           src={graphicProjectBoard}
-          className="absolute right-0 h-[234px] w-[189px] z-0"
+          className="relative w-[132px] h-[164px] mx-auto md:absolute md:w-[189px] md:h-[234px] md:right-0 md:mr-4"
         />
       </div>
       <div className="pt-6 pb-6">
-        <h2 className="text-2xl text-center">Review and explore my</h2>
-        <h1 className="text-4xl text-center font-bold">Experience</h1>
+        <h2 className="text-xl text-center">Review and explore my</h2>
+        <h1 className="text-3xl text-center font-bold">Experience</h1>
       </div>
     </div>
   );

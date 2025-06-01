@@ -7,7 +7,7 @@ const ExperienceHeader = () => {
       <div>
         <img
           src={graphicDesktop}
-          className="relative w-[132px] h-[125px] mx-auto md:absolute md:w-[192px] md:h-[188px]  md:right-0 md:mr-4"
+          className="relative w-[132px] h-[125px] mx-auto md:absolute md:w-[192px] md:h-[188px] md:right-0 md:mr-4"
         />
       </div>
       <div className="pt-6 pb-6">

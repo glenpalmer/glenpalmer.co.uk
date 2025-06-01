@@ -9,8 +9,8 @@ const ExperienceText = () => {
       <div className="grow flex flex-col mx-4 md:flex-row md:justify-around md:gap-24">
         <div className="border border-black rounded-3xl text-center pt-4 my-2 md:w-2/5">
           <h1 className="text-xl font-bold">Oracle Certifications</h1>
-          <div className="flex flex-row md:flex-col md:items-center">
-            <div className="">
+          <div className="flex flex-row justify-center md:flex-col md:items-center">
+            <div>
               <img
                 src={certPayroll}
                 alt="Certificate Payroll"
