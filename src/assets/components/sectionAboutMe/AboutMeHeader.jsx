@@ -8,7 +8,7 @@ const AboutMeHeader = () => {
       <div>
         <img
           src={graphicSofaChat}
-          className="relative w-[132px] h-[135px] mx-auto md:absolute md:w-[188px] md:h-[193px] md:right-0 md:mr-4 "
+          className="relative w-[132px] h-[135px] mx-auto md:absolute md:w-[188px] md:h-[193px] md:right-0 md:mr-4"
         />
       </div>
       <div className="pt-6 pb-6 ml-4">

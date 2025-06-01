@@ -18,7 +18,7 @@ const AboutMeText = () => {
             <h1 className="text-2xl font-bold text-center mt-1 md:text-3xl">
               Experience
             </h1>
-            <p className="text-center text-sm md:text-base">
+            <p className="text-center text-sm mb-2 md:text-base">
               30+ years working with <br />
               Oracle HCM products
             </p>
@@ -30,7 +30,7 @@ const AboutMeText = () => {
             <h1 className="text-2xl font-bold text-center mt-1 md:text-3xl">
               Projects
             </h1>
-            <p className="text-center text-sm md:text-base">
+            <p className="text-center text-sm mb-2 md:text-base">
               25+ project across <br />
               numerous sectors
             </p>

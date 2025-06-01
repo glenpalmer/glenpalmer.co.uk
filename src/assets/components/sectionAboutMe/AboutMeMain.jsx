@@ -8,7 +8,6 @@ const AboutMeMain = () => {
       id="aboutMe"
       className="relative flex flex-col max-w-[1280px] justify-center scroll-mt-40 mx-auto pb-60"
     >
-      {/*<div className="relative flex flex-col max-w-[1280px] justify-center md:flex-row md:justify-around"></div>*/}
       <div>
         <AboutMeHeader />
         <AboutMeText />

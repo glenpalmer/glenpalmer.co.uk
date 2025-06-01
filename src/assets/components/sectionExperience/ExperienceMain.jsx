@@ -6,7 +6,7 @@ const ExperienceMain = () => {
   return (
     <div
       id="experience"
-      className="max-w-[1180px] scroll-mt-40 mx-auto pb-60 justify-center"
+      className="relative flex flex-col max-w-[1280px] justify-center scroll-mt-40 mx-auto pb-60"
     >
       <ExperienceHeader />
       <ExperienceText />
