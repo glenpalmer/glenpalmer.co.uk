@@ -8,7 +8,7 @@ const AboutMeHeader = () => {
       <div>
         <img
           src={graphicSofaChat}
-          className="absolute right-0 mr-4 h-[188px] w-[193px]"
+          className="absolute right-0 mr-4 w-[132px] h-[135px] md:w-[188px] md:h-[193px]"
         />
       </div>
       <div className="pt-6 pb-6 ml-4">
