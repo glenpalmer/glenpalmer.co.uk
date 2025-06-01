@@ -7,16 +7,6 @@ const ContactText = () => {
   return (
     <div className="flex relative w-full justify-center">
       <div>
-        <img
-          src={graphicMobile}
-          className="absolute left-0 h-[240px] w-[188px] z-0"
-        />
-      </div>
-      <div>
-        <div className="flex flex-col pt-6 pb-6">
-          <h2 className="text-2xl text-center">Get in touch</h2>
-          <h1 className="text-4xl text-center font-bold">Contact Me</h1>
-        </div>
         <div>
           <div className="flex flex-row items-center mb-4">
             <div>
