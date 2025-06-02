@@ -12,7 +12,6 @@ const ProjectTimeLine = () => {
             return (
               <div key={project.id} className="group">
                 <div class="relative pl-8 sm:pl-32 py-6">
-                  {/*<!-- Purple label -->*/}
                   <div class="font-caveat font-medium text-xl text-blue2 mb-1 sm:mb-0">
                     {project.client}
                   </div>
@@ -26,7 +25,7 @@ const ProjectTimeLine = () => {
                     </div>
                   </div>
 
-                  <div class="text-slate-500">{project.summary}</div>
+                  <div class="text-slate-500 text-xs">{project.summary}</div>
                 </div>
               </div>
             );
