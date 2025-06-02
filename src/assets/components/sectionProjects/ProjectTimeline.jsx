@@ -6,7 +6,7 @@ const ProjectTimeLine = () => {
   return (
     <div className="border flex mx-4 mt-2 md:mt-8 rounded-3xl">
       <div class="w-full mx-auto">
-        <div className="flex justify-center mt-4 mb-4">Project Timeline</div>
+        <div className="flex justify-center mt-4 mb-4">Timeline</div>
         <div class="my-6 mx-4">
           {ProjectDataSet.map((project) => {
             return (

@@ -31,7 +31,7 @@ const AboutMeText = () => {
               Projects
             </h1>
             <p className="text-center text-sm mb-2 md:text-base">
-              25+ project across <br />
+              25+ projects across <br />
               numerous sectors
             </p>
           </div>

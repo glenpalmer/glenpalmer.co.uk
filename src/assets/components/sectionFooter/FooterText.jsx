@@ -7,21 +7,25 @@ import FooterLinks from "./FooterLinks";
 
 const FooterText = () => {
   return (
-    <div className="flex justify-around">
-      <div className="mt-8 text-lightGrey">
-        <div className="text-lightGrey text-sm text-center">
-          Personal Profile built using technologies React, TailwindCSS and Vite
+    <div className="flex">
+      <div className="mt-8 mx-4 text-lightGrey">
+        <div className="text-lightGrey text-[10px] text-center">
+          Personal Profile site built using technologies
           <br />
-          Project hosted on GitHub Page and available on GitHub
+          React, TailwindCSS, and hosted by Github
+          <br />
         </div>
-        <div className="flex gap-4 text-4xl justify-center mt-2">
+        <div className="flex gap-4 text-2xl mt-2 justify-center items-center">
           <FaReact />
           <RiTailwindCssFill />
           <SiVite />
           <FaGithub />
         </div>
+        <div className="text-[10px] mt-2">
+          Project hosted on Github Pages and available in Github
+        </div>
       </div>
-      <div className="mt-8">
+      <div className="mt-8 mx-auto">
         <FooterLinks />
       </div>
     </div>

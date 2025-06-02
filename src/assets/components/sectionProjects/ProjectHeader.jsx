@@ -11,8 +11,8 @@ const ProjectsHeader = () => {
         />
       </div>
       <div className="pt-6 pb-6">
-        <h2 className="text-xl text-center">Review and explore my</h2>
-        <h1 className="text-3xl text-center font-bold">Experience</h1>
+        <h2 className="text-xl text-center">Browse my career</h2>
+        <h1 className="text-3xl text-center font-bold">Projects</h1>
       </div>
     </div>
   );
