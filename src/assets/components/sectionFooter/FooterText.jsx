@@ -7,7 +7,10 @@ import FooterLinks from "./FooterLinks";
 
 const FooterText = () => {
   return (
-    <div className="flex">
+    <div className="flex flex-col">
+      <div className="flex mt-8 mx-auto">
+        <FooterLinks />
+      </div>
       <div className="mt-8 mx-4 text-lightGrey">
         <div className="text-lightGrey text-[10px] text-center">
           Personal Profile site built using technologies
@@ -21,12 +24,9 @@ const FooterText = () => {
           <SiVite />
           <FaGithub />
         </div>
-        <div className="text-[10px] mt-2">
+        <div className="text-[10px] mt-6 text-center">
           Project hosted on Github Pages and available in Github
         </div>
-      </div>
-      <div className="mt-8 mx-auto">
-        <FooterLinks />
       </div>
     </div>
   );

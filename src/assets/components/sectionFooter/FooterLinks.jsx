@@ -3,7 +3,7 @@ import React from "react";
 const FooterLinks = () => {
   return (
     <div className="text-lightGrey text-md">
-      <ul>
+      <ul className="flex flex-row gap-6">
         <li>
           <a href="#">Home</a>
         </li>
