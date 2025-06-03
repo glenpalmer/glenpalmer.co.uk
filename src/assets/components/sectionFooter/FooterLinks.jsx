@@ -2,8 +2,8 @@ import React from "react";
 
 const FooterLinks = () => {
   return (
-    <div className="text-lightGrey text-md">
-      <ul className="flex flex-row gap-6">
+    <div className="text-lightGrey text-[12px] md:text-2xl">
+      <ul className="flex flex-row gap-4 md:gap-8">
         <li>
           <a href="#">Home</a>
         </li>

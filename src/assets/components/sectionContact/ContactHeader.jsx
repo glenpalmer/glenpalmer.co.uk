@@ -8,8 +8,12 @@ const ContactHeader = () => {
         <ContactImage />
       </div>
       <div className="pt-6 pb-6">
-        <h2 className="text-xl text-center">Want to get in touch</h2>
-        <h1 className="text-3xl text-center font-bold">Contact Me</h1>
+        <h2 className="text-xl text-center md:text-2xl">
+          Want to get in touch
+        </h2>
+        <h1 className="text-3xl text-center font-bold md:text-4xl">
+          Contact Me
+        </h1>
       </div>
     </div>
   );

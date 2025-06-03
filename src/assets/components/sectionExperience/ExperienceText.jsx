@@ -31,56 +31,58 @@ const ExperienceText = () => {
           <div className="my-10 mx-6">
             <table className="w-full">
               <tr>
-                <td className="py-2">
+                <td className="py-4">
                   <TbRosetteDiscountCheckFilled className="text-xl text-blue-500 md:text-3xl" />
                 </td>
-                <td className="text-left md:text-2xl">Oracle Cloud Payroll</td>
+                <td className="text-left text-sm pl-4 md:text-2xl">
+                  Oracle Cloud Payroll
+                </td>
               </tr>
               <tr>
-                <td className="py-2">
+                <td className="py-4">
                   <TbRosetteDiscountCheckFilled className="text-xl text-blue-500 md:text-3xl" />
                 </td>
-                <td className="text-left md:text-2xl">
+                <td className="text-left text-sm pl-4 md:text-2xl">
                   Oracle Cloud Core Human Resources
                 </td>
               </tr>
               <tr>
-                <td className="py-2">
+                <td className="py-4">
                   <TbRosetteDiscountCheckFilled className="text-xl text-blue-500 md:text-3xl" />
                 </td>
-                <td className="text-left md:text-2xl">
+                <td className="text-left text-sm pl-4 md:text-2xl">
                   Oracle Cloud Absence Management
                 </td>
               </tr>
               <tr>
-                <td className="py-2">
+                <td className="py-4">
                   <TbRosetteDiscountCheckFilled className="text-xl text-blue-500 md:text-3xl" />
                 </td>
-                <td className="text-left md:text-2xl">
+                <td className="text-left text-sm pl-4 md:text-2xl">
                   Oracle Cloud Time & Labor
                 </td>
               </tr>
               <tr>
-                <td className="py-2">
+                <td className="py-4">
                   <TbRosetteDiscountCheckFilled className="text-xl text-blue-500 md:text-3xl" />
                 </td>
-                <td className="text-left md:text-2xl">
+                <td className="text-left text-sm pl-4 md:text-2xl">
                   Oracle Cloud Fast Formula
                 </td>
               </tr>
               <tr>
-                <td className="py-2">
+                <td className="py-4">
                   <TbRosetteDiscountCheckFilled className="text-xl text-blue-500 md:text-3xl" />
                 </td>
-                <td className="text-left md:text-2xl">
+                <td className="text-left text-sm pl-4 md:text-2xl">
                   Oracle HCM Data Load (HDL)
                 </td>
               </tr>
               <tr>
-                <td className="py-2">
+                <td className="py-4">
                   <TbRosetteDiscountCheckFilled className="text-xl text-blue-500 md:text-3xl" />
                 </td>
-                <td className="text-left md:text-2xl">
+                <td className="text-left text-sm pl-4 md:text-2xl">
                   Oracle Transactional Business Intelligence (OTBI)
                 </td>
               </tr>

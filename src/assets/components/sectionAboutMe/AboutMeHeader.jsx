@@ -12,8 +12,10 @@ const AboutMeHeader = () => {
         />
       </div>
       <div className="pt-6 pb-6 ml-4">
-        <h2 className="text-xl text-center">Getting to know a little more</h2>
-        <h1 className="text-3xl text-center font-bold">About Me</h1>
+        <h2 className="text-xl text-center md:text-2xl">
+          Getting to know a little more
+        </h2>
+        <h1 className="text-3xl text-center font-bold md:text-4xl">About Me</h1>
       </div>
     </div>
   );

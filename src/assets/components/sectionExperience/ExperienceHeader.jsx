@@ -11,8 +11,12 @@ const ExperienceHeader = () => {
         />
       </div>
       <div className="pt-6 pb-6">
-        <h2 className="text-xl text-center">Review and explore my</h2>
-        <h1 className="text-3xl text-center font-bold">Experience</h1>
+        <h2 className="text-xl text-center md:text-2xl">
+          Review and explore my
+        </h2>
+        <h1 className="text-3xl text-center font-bold md:text-4xl">
+          Experience
+        </h1>
       </div>
     </div>
   );

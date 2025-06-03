@@ -5,7 +5,7 @@ import { ImMail4 } from "react-icons/im";
 
 const ContactText = () => {
   return (
-    <div className="flex relative w-full justify-center">
+    <div className="flex relative w-full justify-center mt-2">
       <div>
         <div>
           <div className="flex flex-row items-center mb-4">
